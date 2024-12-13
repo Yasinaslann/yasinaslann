@@ -4,7 +4,7 @@ Merhaba! Ben Yasin, İstanbul Üniversitesi Matematik öğrencisiyim ve aynı za
 ## 💻 Yetkinliklerim
 - **Programlama Dilleri:** Python (Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn)
 - **Araçlar:** Jupyter Notebook, PyCharm, Anaconda
-- **Alanlar:** Veri Analitiği, Makine Öğrenimi, Veri Bİlimi, Problem Çözme
+- **Alanlar:** Veri Analitiği, Makine Öğrenimi, Veri Bilimi, Problem Çözme
 
 ## 📂 Projelerimden Bazıları
 - [Hipotez Testi Hesaplama Aracı](https://github.com/Yasinaslann/hipotezis_hesaplama): Python ile hipotez testi yapan bir araç.
@@ -18,6 +18,6 @@ Merhaba! Ben Yasin, İstanbul Üniversitesi Matematik öğrencisiyim ve aynı za
 
 ## 📫 Bana Ulaşın
 - **E-posta:** aslanyasin001@gmail.com
-- **LinkedIn:** [linkedin.com/in/yasin-aslan](https://linkedin.com/in/yasin-aslan)
+- **LinkedIn:** https://www.linkedin.com/in/yasin-aslan-b1baab1a6/
 - **Kaggle:** [https://kaggle.com/yasinaslann](https://kaggle.com/yasinaslann)
 
