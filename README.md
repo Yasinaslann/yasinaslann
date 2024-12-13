@@ -7,13 +7,14 @@ Merhaba! Ben Yasin, İstanbul Üniversitesi Matematik öğrencisiyim ve aynı za
 - **Alanlar:** Veri Analitiği, Makine Öğrenimi, Veri Bilimi, Problem Çözme
 
 ## 📂 Projelerimden Bazıları
-- [Hipotez Testi Hesaplama Aracı](https://github.com/Yasinaslann/hipotezis_hesaplama): Python ile hipotez testi yapan bir araç.
-- [İkinci Dereceden Denklem Çözücü](https://github.com/Yasinaslann/Quadratic-Equation-Solver): Kullanıcıdan veri alarak çözüm üreten Python programı.
-- [Python Temel Problemleri](https://github.com/Yasinaslann/python_basic_problems): Temel programlama becerilerimi geliştirmek için yaptığım çözümler.
+- [Hipotenüs Hesaplama Aracı](https://github.com/Yasinaslann/hipotenus_hesaplama)): Python ile basit hipotenüs hesaplama yapan bir program.
+- [İkinci Dereceden Denklem Çözücü](https://github.com/Yasinaslann/Quadratic-Equation-Solver): Kullanıcıdan veri alarak denklem çözen Python programı.
+- [Python Basit Problemler](https://github.com/Yasinaslann/python_basic_problems): Temel programlama becerileri geliştirmek için Python'da basit problemler ve yaptığım çözümler.
 
 ## 🌱 Şu An Öğreniyorum
 - Makine Öğrenmesi Modelleri
-- İleri Python Teknikleri
+- Veri Analizi Projeleri
+- İleri Python Programlama
 - Git ve GitHub üzerinde proje yönetimi
 
 ## 📫 Bana Ulaşın
