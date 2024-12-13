@@ -1,16 +1,23 @@
-## Hi there 👋
+# Yasin Aslan 🌟
+Merhaba! Ben Yasin, İstanbul Üniversitesi Matematik öğrencisiyim ve aynı zamanda Yönetim Bilişim Sistemleri alanında eğitim alıyorum. Yazılım, veri bilimi ve yapay zeka ile ilgileniyorum. İşte yetkinliklerim ve projelerim:
 
-<!--
-**Yasinaslann/yasinaslann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Yetkinliklerim
+- **Programlama Dilleri:** Python (Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn)
+- **Araçlar:** Jupyter Notebook, PyCharm, Anaconda
+- **Alanlar:** Veri Analitiği, Makine Öğrenimi, Veri Bİlimi, Problem Çözme
 
-Here are some ideas to get you started:
+## 📂 Projelerimden Bazıları
+- [Hipotez Testi Hesaplama Aracı](https://github.com/Yasinaslann/hipotezis_hesaplama): Python ile hipotez testi yapan bir araç.
+- [İkinci Dereceden Denklem Çözücü](https://github.com/Yasinaslann/Quadratic-Equation-Solver): Kullanıcıdan veri alarak çözüm üreten Python programı.
+- [Python Temel Problemleri](https://github.com/Yasinaslann/python_basic_problems): Temel programlama becerilerimi geliştirmek için yaptığım çözümler.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Şu An Öğreniyorum
+- Makine Öğrenmesi Modelleri
+- İleri Python Teknikleri
+- Git ve GitHub üzerinde proje yönetimi
+
+## 📫 Bana Ulaşın
+- **E-posta:** aslanyasin001@gmail.com
+- **LinkedIn:** [linkedin.com/in/yasin-aslan](https://linkedin.com/in/yasin-aslan)
+- **Kaggle:** [https://kaggle.com/yasinaslann](https://kaggle.com/yasinaslann)
+
