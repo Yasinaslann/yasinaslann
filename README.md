@@ -6,8 +6,6 @@ Merhaba! Ben Yasin, İstanbul Üniversitesi Matematik öğrencisiyim ve aynı za
 ![Yasin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yasinaslann&show_icons=true&theme=radical)
 
 ## 📫 Bana Ulaşın  
-<div align="center">
-
 <a href="mailto:aslanyasin001@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
@@ -21,7 +19,6 @@ Merhaba! Ben Yasin, İstanbul Üniversitesi Matematik öğrencisiyim ve aynı za
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
-</div>
 
 ## 💻 Yetkinliklerim
 - **Programlama Dilleri:** Python (Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn)
