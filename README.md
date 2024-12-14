@@ -6,13 +6,12 @@ Merhaba! Ben Yasin, İstanbul Üniversitesi Matematik öğrencisiyim ve aynı za
 ![Yasin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yasinaslann&show_icons=true&theme=radical)
 
 ## 📫 Bana Ulaşın  
-
 <div align="center">
 
 <a href="mailto:aslanyasin001@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
-<a href="https://linkedin.com/in/yasin-aslan">
+<a href="https://www.linkedin.com/in/yasin-aslan-b1baab1a6/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://kaggle.com/yasinaslann">
