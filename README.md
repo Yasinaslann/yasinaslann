@@ -3,6 +3,10 @@ Merhaba! Ben Yasin, İstanbul Üniversitesi Matematik öğrencisiyim ve aynı za
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Yasinaslann&color=blue)
 
+![Yasin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yasinaslann&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasinaslann&layout=compact&theme=radical)
+
 
 ## 💻 Yetkinliklerim
 - **Programlama Dilleri:** Python (Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn)
