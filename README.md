@@ -5,7 +5,6 @@ Merhaba! Ben Yasin, İstanbul Üniversitesi Matematik öğrencisiyim ve aynı za
 
 ![Yasin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yasinaslann&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasinaslann&layout=compact&theme=radical)
 
 
 ## 💻 Yetkinliklerim
