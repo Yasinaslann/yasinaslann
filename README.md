@@ -1,6 +1,9 @@
 # Yasin Aslan 🌟
 Merhaba! Ben Yasin, İstanbul Üniversitesi Matematik öğrencisiyim ve aynı zamanda Yönetim Bilişim Sistemleri alanında eğitim alıyorum. Yazılım, veri bilimi ve yapay zeka ile ilgileniyorum. İşte yetkinliklerim ve projelerim:
 
+![Profile Views](https://komarev.com/ghpvc/?username=Yasinaslann&color=blue)
+
+
 ## 💻 Yetkinliklerim
 - **Programlama Dilleri:** Python (Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn)
 - **Araçlar:** Jupyter Notebook, PyCharm, Anaconda
@@ -16,6 +19,14 @@ Merhaba! Ben Yasin, İstanbul Üniversitesi Matematik öğrencisiyim ve aynı za
 - Veri Analizi Projeleri
 - İleri Python Programlama
 - Git ve GitHub üzerinde proje yönetimi
+
+ ## 🏆 Sertifikalarım
+- [Python for Data Science](#) - Miuul Machine Learning Camp
+- [Feature Engineering](#) - Miuul Machine Learning Camp
+- [Machine Learning](#) - Miuul Machine Learning Camp
+- [Introduction to Data Science and Artificial Intelligence](#) - Miuul
+- [IBM ile Kodluyoruz:CyberStart](#) - IBM İle Kodluyoruz:CyberStart Program
+
 
 ## 📫 Bana Ulaşın
 - **E-posta:** aslanyasin001@gmail.com
