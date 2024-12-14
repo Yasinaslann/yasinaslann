@@ -44,8 +44,3 @@ Merhaba! Ben Yasin, İstanbul Üniversitesi Matematik öğrencisiyim ve aynı za
 - [IBM ile Kodluyoruz:CyberStart](#) - IBM İle Kodluyoruz:CyberStart Program
 
 
-## 📫 Bana Ulaşın
-- **E-posta:** aslanyasin001@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/yasin-aslan-b1baab1a6/
-- **Kaggle:** [https://kaggle.com/yasinaslann](https://kaggle.com/yasinaslann)
-
