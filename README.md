@@ -1,11 +1,11 @@
 # Yasin Aslan 🌟
-Merhaba! Ben Yasin, İstanbul Üniversitesi Matematik öğrencisiyim ve aynı zamanda Yönetim Bilişim Sistemleri alanında eğitim alıyorum. Yazılım, veri bilimi ve yapay zeka ile ilgileniyorum. İşte yetkinliklerim ve projelerim:
+Hi! I'm Yasin, a Mathematics student at Istanbul University, also pursuing a degree in Management Information Systems. I'm passionate about software, data science, and artificial intelligence. Below are my skills and projects:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Yasinaslann&color=blue)
 
 ![Yasin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yasinaslann&show_icons=true&theme=radical)
 
-## 📫 Bana Ulaşın  
+## 📫 Contact Me  
 <a href="mailto:aslanyasin001@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
@@ -19,28 +19,25 @@ Merhaba! Ben Yasin, İstanbul Üniversitesi Matematik öğrencisiyim ve aynı za
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
+## 💻 My Skills
+- **Programming Languages:** Python (Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn)
+- **Tools:** Jupyter Notebook, PyCharm, Anaconda
+- **Areas of Expertise:** Data Analytics, Machine Learning, Data Science, Problem Solving
 
-## 💻 Yetkinliklerim
-- **Programlama Dilleri:** Python (Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn)
-- **Araçlar:** Jupyter Notebook, PyCharm, Anaconda
-- **Alanlar:** Veri Analitiği, Makine Öğrenimi, Veri Bilimi, Problem Çözme
+## 📂 Some of My Projects
+- [Hypotenuse Calculator](https://github.com/Yasinaslann/hipotenus_hesaplama): A simple Python program to calculate the hypotenuse.
+- [Quadratic Equation Solver](https://github.com/Yasinaslann/Quadratic-Equation-Solver): A Python program that solves quadratic equations by taking user input.
+- [Python Basic Problems](https://github.com/Yasinaslann/python_basic_problems): Simple programming problems and solutions in Python to develop basic programming skills.
 
-## 📂 Projelerimden Bazıları
-- [Hipotenüs Hesaplama Aracı](https://github.com/Yasinaslann/hipotenus_hesaplama)): Python ile basit hipotenüs hesaplama yapan bir program.
-- [İkinci Dereceden Denklem Çözücü](https://github.com/Yasinaslann/Quadratic-Equation-Solver): Kullanıcıdan veri alarak denklem çözen Python programı.
-- [Python Basit Problemler](https://github.com/Yasinaslann/python_basic_problems): Temel programlama becerileri geliştirmek için Python'da basit problemler ve yaptığım çözümler.
+## 🌱 Currently Learning
+- Machine Learning Models
+- Data Analysis Projects
+- Advanced Python Programming
+- Project Management with Git and GitHub
 
-## 🌱 Şu An Öğreniyorum
-- Makine Öğrenmesi Modelleri
-- Veri Analizi Projeleri
-- İleri Python Programlama
-- Git ve GitHub üzerinde proje yönetimi
-
- ## 🏆 Sertifikalarım
+## 🏆 My Certifications
 - [Python for Data Science](#) - Miuul Machine Learning Camp
 - [Feature Engineering](#) - Miuul Machine Learning Camp
 - [Machine Learning](#) - Miuul Machine Learning Camp
 - [Introduction to Data Science and Artificial Intelligence](#) - Miuul
-- [IBM ile Kodluyoruz:CyberStart](#) - IBM İle Kodluyoruz:CyberStart Program
-
-
+- [IBM CyberStart Program](#) - IBM CyberStart with Kodluyoruz
