@@ -14,7 +14,7 @@ Hi! I'm Yasin, a Mathematics student at Istanbul University, also pursuing a deg
 </a>
 <a href="https://kaggle.com/yasinaslann">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
-</a>
+</a> 
 <a href="https://github.com/Yasinaslann">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
