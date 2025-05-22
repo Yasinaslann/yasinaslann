@@ -19,25 +19,8 @@ Hi! I'm Yasin, a Mathematics student at Istanbul University, also pursuing a deg
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
-## 💻 My Skills
-- **Programming Languages:** Python (Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn)
-- **Tools:** Jupyter Notebook, PyCharm, Anaconda
-- **Areas of Expertise:** Data Analytics, Machine Learning, Data Science, Problem Solving
-
-## 📂 Some of My Projects
-- [Hypotenuse Calculator](https://github.com/Yasinaslann/hipotenus_hesaplama): A simple Python program to calculate the hypotenuse.
-- [Quadratic Equation Solver](https://github.com/Yasinaslann/Quadratic-Equation-Solver): A Python program that solves quadratic equations by taking user input.
-- [Python Basic Problems](https://github.com/Yasinaslann/python_basic_problems): Simple programming problems and solutions in Python to develop basic programming skills.
-
 ## 🌱 Currently Learning
 - Machine Learning Models
 - Data Analysis Projects
 - Advanced Python Programming
 - Project Management with Git and GitHub
-
-## 🏆 My Certifications
-- [Python for Data Science](#) - Miuul Machine Learning Camp
-- [Feature Engineering](#) - Miuul Machine Learning Camp
-- [Machine Learning](#) - Miuul Machine Learning Camp
-- [Introduction to Data Science and Artificial Intelligence](#) - Miuul
-- [IBM CyberStart Program](#) - IBM CyberStart with Kodluyoruz
