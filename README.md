@@ -19,5 +19,3 @@ Hi! I'm Yasin, a Mathematics student at Istanbul University, also pursuing a deg
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
-l
-- [IBM CyberStart Program](#) - IBM CyberStart with Kodluyoruz
