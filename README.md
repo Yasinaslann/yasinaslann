@@ -1,5 +1,5 @@
 # Yasin Aslan 🌟
-Hi! I'm Yasin, a Mathematics student at Istanbul University, also pursuing a degree in Management Information Systems. I'm passionate about software, data science, and artificial intelligence. Below are my skills and projects:
+Hi! I'm Yasin, a Mathematics student at Istanbul University, also pursuing a degree in Management Information Systems. I'm passionate about software, data science, and artificial intelligence.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Yasinaslann&color=blue)
 
